@@ -1,0 +1,6 @@
+#ifndef TLOX_COMMON_HPP
+#define TLOX_COMMON_HPP
+
+#undef DEBUG_TRACE_EXECUTION
+
+#endif /* TLOX_COMMON_HPP */
